@@ -8,3 +8,7 @@ html, body, #graphiql-container {
   overflow: hidden;
   width: 100%;
 }
+
+.topBar{
+  color:blue;
+}
